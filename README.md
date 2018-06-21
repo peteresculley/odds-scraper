@@ -6,6 +6,7 @@ It will re-scrape the odds every 5 minutes.
 
 # Setup
 install Firefox browser and geckodriver for Selenium  
+then install python packages with  
 `pip install -r requirements.txt`
 
 # How to run
